@@ -1,8 +1,10 @@
-# [Zhaoteng Yan]
+# [Resume]
 
 ![Profile View Counter](https://komarev.com/ghpvc?username=yourusername)
 
-👋 Hi, I'm a **Senior Engineer** at Zhongguancun Laboratory, working closely with Dr. [Li Chen](https://li-ch.github.io/resume/) and Prof. [Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html). I received my Ph.D. from School of Cyberspace Security, Institute of Information Engineering, Chinese Academy of Sciences in 2022. My work focuses on AI+ Security. Now, I am looking for new **Ph.D students**. Welcome to send me an **Email:** [yanzt@zgclab.edu.cn](mailto:yanzt@zgclab.edu.cn).
+👋 Hi, I'm a **Senior Engineer** at Zhongguancun Laboratory, working closely with Dr. [Li Chen](https://li-ch.github.io/resume/) and Prof. [Dan Li](https://nasp.cs.tsinghua.edu.cn/lidan.html). I received my Ph.D. from School of Cyberspace Security, Institute of Information Engineering, Chinese Academy of Sciences in 2022. 
+
+Now, I'm recruiting new **Ph.D students**, who are interested in **AI+ Security**. Welcome to contact me via Email: [yanzt@zgclab.edu.cn](mailto:yanzt@zgclab.edu.cn).
 
 ## 📚 Research Interests
 
@@ -11,6 +13,7 @@
 - **Area 3:** [Intelligent Security Attack and Defense]
 
 ## 📝 Publications
+*<small>“*” indicates corresponding author</small>*
 
 1. **[TDSC' 2023] Internet-Scale Fingerprinting the Reusing and Rebranding IoT Devices in the Cyberspace**  
    *Authors:* **Zhaoteng. Yan**, Z. Li, H. Li, S. Yang, H. Zhu and L. Sun.  
@@ -74,12 +77,12 @@
 
 ## 🏆 Honors & Awards
 
-- **[2021]** [Beijing Science and Technology Progress Award], [Issuing Organization]
+- **[2021]** [Beijing Science and Technology Progress Award]
 - **[2021]** [Distinguished Paper], [Scisec 2021]
 
 ## 🔗 Links & Contact
 
-- **ORCID:** [![ORCID](https://img.shields.io/badge/ORCID-0000-0002-5787-0870?style=flat-square&logo=orcid)]([https://orcid.org/0000-0002-5787-0870](https://orcid.org/0000-0002-5787-0870))
+- **ORCID:** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5787--0870-A6CE39?style=flat-square&logo=orcid)]([https://orcid.org/0000-0002-5787-0870](https://orcid.org/0000-0002-5787-0870))
 - **DBLP:** [![DBLP](https://img.shields.io/badge/DBLP-zhaotengyan-blue?style=flat-square&logo=dblp)]([https://dblp.org/pid/your-dblp-id](https://dblp.org/pid/259/3821.html))
 - **Google Scholar:** [![Google Scholar](https://img.shields.io/badge/Google_Scholar-zhaotengyan-4285F4?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=your-user-id)
 - **GitHub:** [@help116114-cmd](https://github.com/help116114-cmd)
