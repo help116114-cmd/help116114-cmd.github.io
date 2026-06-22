@@ -82,7 +82,7 @@ Now, I'm recruiting new **Ph.D students**, who are interested in **AI+ Security*
 
 ## 🔗 Links & Contact
 
-- **ORCID:** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5787--0870-A6CE39?style=flat-square&logo=orcid)]([https://orcid.org/0000-0002-5787-0870](https://orcid.org/0000-0002-5787-0870))
+- **ORCID:** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5787--0870-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-5787-0870)
 - **DBLP:** [![DBLP](https://img.shields.io/badge/DBLP-zhaotengyan-blue?style=flat-square&logo=dblp)]([https://dblp.org/pid/your-dblp-id](https://dblp.org/pid/259/3821.html))
 - **Google Scholar:** [![Google Scholar](https://img.shields.io/badge/Google_Scholar-zhaotengyan-4285F4?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=your-user-id)
 - **GitHub:** [@help116114-cmd](https://github.com/help116114-cmd)
