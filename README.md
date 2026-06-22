@@ -18,7 +18,7 @@ Now, I'm recruiting new **Ph.D students**, who are interested in **AI+ Security*
 1. **[TDSC' 2023] Internet-Scale Fingerprinting the Reusing and Rebranding IoT Devices in the Cyberspace**  
    *Authors:* **Zhaoteng. Yan**, Z. Li, H. Li, S. Yang, H. Zhu and L. Sun.  
    *Journal:* [IEEE Transactions on Dependable and Secure Computing, vol. 20, no. 5, pp. 3890-3909, 1 Sept.-Oct. 2023]  
-   [\[PDF\]]([link-to-pdf](https://ieeexplore.ieee.org/document/9954619)) [\[doi\]]([link-to-code](https://doi.org/10.1109/TDSC.2022.3223103)) 
+   [\[PDF\]](https://ieeexplore.ieee.org/document/9954619) [\[doi\]](https://doi.org/10.1109/TDSC.2022.3223103) 
 
 2. **[NSDI'26] BayWatch: Practical Internet-Scale Topology Monitoring with Dynamic Bayesian Estimation**  
    *Authors:* Zhongxu Guan, Shuai Wang, Li Chen, **Zhaoteng Yan\***, Jiaye Lin, Dan Li, Yong Jiang, Yingxin Wang and Ziqian Liu.
