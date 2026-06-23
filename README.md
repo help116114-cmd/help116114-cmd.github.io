@@ -32,7 +32,7 @@ Now, I'm recruiting new **Ph.D students**, who are interested in **AI+ Security*
 
 4. **[SIGCOMM' 2025] Discovering Millions of New Nodes and Links in the Internet by Challenging the Uniformity Assumption in Multipath Detection**  
    *Authors:* Zhongxu Guan, Shuai Wang, Li Chen, **Zhaoteng Yan\***, Jiaye Lin, Dan Li, Yong Jiang, Yingxin Wang and Ziqian Liu.  
-   *Conference/Journal:* [ACM SIGCOMM 2025]  
+   *Conference:* [ACM SIGCOMM 2025]  
    [\[PDF\]](https://dl.acm.org/doi/10.1145/3718958.3750534) [\[DOI\]]([10.1145/3718958.3750534](https://dl.acm.org/doi/10.1145/3718958.3750534))
 
 5. **[Usenix Security 2026] Bond: Constraint-Directed Fuzzing for Automated Validation of Taint Analysis Results in Linux-based IoT Firmware**  
