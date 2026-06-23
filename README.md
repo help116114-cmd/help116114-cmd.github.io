@@ -22,55 +22,55 @@ Now, I'm recruiting new **Ph.D students**, who are interested in **AI+ Security*
 
 2. **[NSDI'26] BayWatch: Practical Internet-Scale Topology Monitoring with Dynamic Bayesian Estimation**  
    *Authors:* Zhongxu Guan, Shuai Wang, Li Chen, **Zhaoteng Yan\***, Jiaye Lin, Dan Li, Yong Jiang, Yingxin Wang and Ziqian Liu.
-   *Conference:* [The 23rd USENIX Symposium on Network Systems Design and Implementation]  
+   *Conference:* [The 23rd USENIX Symposium on Network Systems Design and Implementation]
    [\[PDF\]](https://www.usenix.org/system/files/nsdi26-guan-zhongxu.pdf) [\[Code\]](https://github.com/NASP-THU/BayWatch)
 
-3. **[ASE' 2026] The CodeInverter Suite: Structure- and Data-Aware Binary Decompilation with Efficient LLMs**  
+4. **[ASE' 2026] The CodeInverter Suite: Structure- and Data-Aware Binary Decompilation with Efficient LLMs**  
    *Authors:* Peipei Liu, Jian Sun, Rongkang Sun, Li Chen, **Zhaoteng Yan\***, Lixiao Zhang, Dawei Wang, Dapeng Sun, Peizheng Zhang, Dan Li.  
    *Conference:* [The 41st IEEE/ACM International Conference on Automated Software Engineering]  
    [\[PDF\]](link-to-pdf) [\[Code\]](link-to-code) [\[Project Page\]](link-to-project)
 
-4. **[SIGCOMM' 2025] Discovering Millions of New Nodes and Links in the Internet by Challenging the Uniformity Assumption in Multipath Detection**  
+5. **[SIGCOMM' 2025] Discovering Millions of New Nodes and Links in the Internet by Challenging the Uniformity Assumption in Multipath Detection**  
    *Authors:* Zhongxu Guan, Shuai Wang, Li Chen, **Zhaoteng Yan\***, Jiaye Lin, Dan Li, Yong Jiang, Yingxin Wang and Ziqian Liu.  
    *Conference:* [ACM SIGCOMM 2025]  
    [\[PDF\]](https://dl.acm.org/doi/10.1145/3718958.3750534) [\[DOI\]]([10.1145/3718958.3750534](https://dl.acm.org/doi/10.1145/3718958.3750534))
 
-5. **[Usenix Security 2026] Bond: Constraint-Directed Fuzzing for Automated Validation of Taint Analysis Results in Linux-based IoT Firmware**  
+6. **[Usenix Security 2026] Bond: Constraint-Directed Fuzzing for Automated Validation of Taint Analysis Results in Linux-based IoT Firmware**  
    *Authors:* Jiaqian Peng, Puzhuo Liu, Kai Cheng, **Zhaoteng Yan**, Jie Liu, Chengnian Sun, Hongsong Zhu.  
    *Conference:* [The 35th USENIX Security Symposium 2026]  
    [\[PDF\]](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_peng-jiaqian.pdf)
 
-6. **[CCS' 2026] Hieronym: Leveraging Hierarchical Multi-Source Information for Function Renaming in Stripped Binary**  
+7. **[CCS' 2026] Hieronym: Leveraging Hierarchical Multi-Source Information for Function Renaming in Stripped Binary**  
    *Authors:* Xiaoling Zhang, Jian Sun, Dawei Wang, Chongyu Wang, Li Chen, **Zhaoteng Yan**, Peipei Liu, Lixiao Zhang, Dan Li. 
    *Conference:* [the 33rd ACM Conference on Computer and Communications Security, 2026]  
    [\[PDF\]](link-to-pdf) [\[Code\]](link-to-code)
 
-7. **[CyberSecurity' 2024] A Survey on Attribute Identification Techniques of the IoT Devices in the Cyberspace**  
+8. **[CyberSecurity' 2024] A Survey on Attribute Identification Techniques of the IoT Devices in the Cyberspace**  
    *Authors:* **YAN Zhaoteng**, LI Zhi, LI Hong, WANG Jinfa, ZHU Hongsong, SUN Limin.
    *Journal:* [Journal of Cyber Security, 2024-04-06]  
    [\[PDF\]](https://jcs.iie.ac.cn/xxaqxb/ch/reader/view_abstract.aspx?doi=10.19363/J.cnki.cn10-1380/tn.2024.04.06) [\[DOI\]](10.19363/J.cnki.cn10-1380/tn.2024.04.06)
 
-8. **[ICA3PP 2025] Enhancing Security in Embodied Intelligence: Attack Detection via Constraint Functions**  
+10. **[ICA3PP 2025] Enhancing Security in Embodied Intelligence: Attack Detection via Constraint Functions**  
    *Authors:* Dan Yu, Juntao Shi, Jiaqian Ren, **Zhaoteng Yan**, Zhihui Zhao and Yongle Chen.  
    *Conference:* [The 25th International Conference on Algorithms and Architectures for Parallel Processing, 2025]  
    [\[PDF\]](link-to-pdf) [\[DOI\]](10.1007/978-981-95-8417-8_8 )
 
-9. **[Scisec 2021] Detecting Internet-Scale Surveillance Devices Using RTSP Recessive Features**  
+11. **[Scisec 2021] Detecting Internet-Scale Surveillance Devices Using RTSP Recessive Features**  
    *Authors:* **Yan, Z.**, Li, Z., Bai, W., Yu, N., Zhu, H., Sun, L.  
    *Conference:* [Science of Cyber Security, SciSec 2021]  
    [\[PDF\]](link-to-pdf) [\[DOI\]](10.1007/978-3-030-89137-4_2)
 
-11. **[WASA 2020] Detecting Internet-Scale NATs for IoT Devices Based on Tri-Net**  
+12. **[WASA 2020] Detecting Internet-Scale NATs for IoT Devices Based on Tri-Net**  
    *Authors:* **Yan, Z.**, Yu, N., Wen, H., Li, Z., Zhu, H., Sun, L.  
    *Conference:* [IEEE Wireless Algorithms, Systems, and Applications 2020]  
    [\[PDF\]](https://doi.org/10.1007/978-3-030-59016-1_50) [\[DOI\]](https://doi.org/10.1007/978-3-030-59016-1_50)
 
-12. **[Globecomm 2019] Remote Fingerprinting on Internet-Wide Printers Based on Neural Network**  
+13. **[Globecomm 2019] Remote Fingerprinting on Internet-Wide Printers Based on Neural Network**  
    *Authors:* **Z. Yan**, S. Lv, Y. Zhang, H. Zhu and L. Sun.  
    *Conference:* [2019 IEEE Global Communications Conference (GLOBECOM)]  
    [\[PDF\]](https://ieeexplore.ieee.org/document/9014144) [\[DOI\]](https://doi.org/10.1109/GLOBECOM38437.2019.9014144)
 
-13. **[WASA 2020] VES: A Component Version Extracting System for Large-Scale IoT Firmwares**  
+14. **[WASA 2020] VES: A Component Version Extracting System for Large-Scale IoT Firmwares**  
    *Authors:* Xulun Hu; Weidong Zhang; Hong Li; Yan Hu; **Zhaoteng Yan**; Xiyue Wang; Limin Sun.  
    *Conference:* [IEEE Wireless Algorithms, Systems, and Applications 2020]  
    [\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-030-59019-2_5) [\[DOI\]](https://dl.acm.org/doi/10.1007/978-3-030-59019-2_5)
