@@ -85,7 +85,7 @@ Now, I'm recruiting new **Ph.D students**, who are interested in **AI+ Security*
 - **ORCID:** [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5787--0870-A6CE39?style=flat-square&logo=orcid)](https://orcid.org/0000-0002-5787-0870)
 - **DBLP:** [![DBLP](https://img.shields.io/badge/DBLP-zhaotengyan-blue?style=flat-square&logo=dblp)](https://dblp.org/pid/259/3821.html)
 - **Google Scholar:** [![Google Scholar](https://img.shields.io/badge/Google_Scholar-zhaotengyan-4285F4?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=your-user-id)
-- **Reasearch Gate:** [![Reasearch Gate](https://www.researchgate.net/?ev=nav_logo&_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJwb3NpdGlvbiI6Imdsb2JhbEhlYWRlciJ9fQ)](https://www.researchgate.net/profile/Zhaoteng-Yan)
+- **Reasearch Gate:** [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white){target="_blank"}](https://www.researchgate.net/profile/Zhaoteng-Yan)
 - **GitHub:** [@help116114-cmd](https://github.com/help116114-cmd)
 
 ---
